@@ -4,7 +4,7 @@
 
 This is a project to show weather in the location and use open source [weather api](http://openweathermap.org)
 ### Use the project
-Clone repo run "composer install" after "npm install" after "npm run dev" after "php artisan serve"
+Clone repo run "composer install" "npm install" "npm run dev" "php artisan serve"
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).

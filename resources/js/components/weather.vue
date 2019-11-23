@@ -59,7 +59,7 @@
                     main: {
                         temp: {
                             type: Number,
-                            default: null
+                            default: 0
                         },
                         pressure: 0
                     },
